@@ -49,7 +49,7 @@
         font-family: sans-serif;
         color: rgb(236, 233, 233);
         font-size: 10px;
-        top: 190px;
+        top: 250px;
         left: 50px
     }
     
